@@ -20,6 +20,6 @@
   "author": "Silvio",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^9.1.0"
+    "cypress": "6.6.0"
   }
 }
